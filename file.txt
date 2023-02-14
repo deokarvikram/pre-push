@@ -1,1 +1,2 @@
 Line 1 in file.txt
+line 2 added
